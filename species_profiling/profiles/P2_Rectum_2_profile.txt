@@ -1,0 +1,14 @@
+#mpa_vJun23_CHOCOPhlAnSGB_202307
+#/dss/dsshome1/lxc07/di39dux/mambaforge/envs/microbes/bin/metaphlan P2_Rectum_2_R1.fastq,P2_Rectum_2_R2.fastq --bowtie2out profiles/P2_Rectum_2 --unclassified_estimation --bowtie2db /dss/dsslegfs01/pr53da/pr53da-dss-0021/projects/2021__Cuckoo_Resequencing/tmp/meta_db --input_type fastq --nproc 5
+#14882 reads processed
+#SampleID	Metaphlan_Analysis
+#clade_name	NCBI_tax_id	relative_abundance	additional_species
+UNCLASSIFIED	-1	1.746	
+k__Bacteria	2	98.25400205620338	
+k__Bacteria|p__Bacteroidota	2|976	98.25400205620338	
+k__Bacteria|p__Bacteroidota|c__Bacteroidia	2|976|200643	98.25400205620338	
+k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Bacteroidales	2|976|200643|171549	98.25400205620338	
+k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Bacteroidales|f__Bacteroidaceae	2|976|200643|171549|815	98.25400205620338	
+k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Bacteroidales|f__Bacteroidaceae|g__Phocaeicola	2|976|200643|171549|815|909656	98.25400205620338	
+k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Bacteroidales|f__Bacteroidaceae|g__Phocaeicola|s__Phocaeicola_vulgatus	2|976|200643|171549|815|909656|821	98.25400205620338	
+k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Bacteroidales|f__Bacteroidaceae|g__Phocaeicola|s__Phocaeicola_vulgatus|t__SGB1814	2|976|200643|171549|815|909656|821|	98.25400205620338	k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Bacteroidales|f__Bacteroidaceae|g__Phocaeicola|s__Phocaeicola_dorei

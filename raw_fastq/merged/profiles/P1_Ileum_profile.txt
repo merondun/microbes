@@ -1,0 +1,14 @@
+#mpa_vJun23_CHOCOPhlAnSGB_202307
+#/dss/dsshome1/lxc07/di39dux/mambaforge/envs/microbes/bin/metaphlan P1_Ileum.concat_raw.fastq --bowtie2out profiles/P1_Ileum --unclassified_estimation --bowtie2db /dss/dsslegfs01/pr53da/pr53da-dss-0021/projects/2021__Cuckoo_Resequencing/tmp/meta_db --input_type fastq --nproc 5
+#152048 reads processed
+#SampleID	Metaphlan_Analysis
+#clade_name	NCBI_tax_id	relative_abundance	additional_species
+UNCLASSIFIED	-1	94.02867	
+k__Bacteria	2	5.971330686427811	
+k__Bacteria|p__Proteobacteria	2|1224	5.971330686427811	
+k__Bacteria|p__Proteobacteria|c__Alphaproteobacteria	2|1224|28211	5.971330686427811	
+k__Bacteria|p__Proteobacteria|c__Alphaproteobacteria|o__Sphingomonadales	2|1224|28211|204457	5.971330686427811	
+k__Bacteria|p__Proteobacteria|c__Alphaproteobacteria|o__Sphingomonadales|f__Sphingomonadaceae	2|1224|28211|204457|41297	5.971330686427811	
+k__Bacteria|p__Proteobacteria|c__Alphaproteobacteria|o__Sphingomonadales|f__Sphingomonadaceae|g__Sphingomonas	2|1224|28211|204457|41297|13687	5.971330686427811	
+k__Bacteria|p__Proteobacteria|c__Alphaproteobacteria|o__Sphingomonadales|f__Sphingomonadaceae|g__Sphingomonas|s__Sphingomonas_echinoides	2|1224|28211|204457|41297|13687|59803	5.971330686427811	
+k__Bacteria|p__Proteobacteria|c__Alphaproteobacteria|o__Sphingomonadales|f__Sphingomonadaceae|g__Sphingomonas|s__Sphingomonas_echinoides|t__SGB31712	2|1224|28211|204457|41297|13687|59803|	5.971330686427811	

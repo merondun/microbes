@@ -1,0 +1,253 @@
+file                                                                    format  type  num_seqs    sum_len  min_len  avg_len  max_len
+P1_Ileum_1_R1.fastq.gz                                                  FASTQ   DNA     27648  2792448      101      101      101
+P1_Ileum_1_R1_kneaddata_hg37dec_v0.1_bowtie2_paired_contam_1.fastq      FASTQ   DNA      4498    268882       50     59.8      101
+P1_Ileum_1_R1_kneaddata_hg37dec_v0.1_bowtie2_paired_contam_2.fastq      FASTQ   DNA      4498    268882       50     59.8      101
+P1_Ileum_1_R1_kneaddata_hg37dec_v0.1_bowtie2_unmatched_1_contam.fastq                        0          0        0        0        0
+P1_Ileum_1_R1_kneaddata_hg37dec_v0.1_bowtie2_unmatched_2_contam.fastq                        0          0        0        0        0
+P1_Ileum_1_R1_kneaddata_paired_1.fastq                                  FASTQ   DNA      4658    456256       50       98      101
+P1_Ileum_1_R1_kneaddata_paired_2.fastq                                  FASTQ   DNA      4658    456256       50       98      101
+P1_Ileum_1_R1_kneaddata.repeats.removed.1.fastq                         FASTQ   DNA      9156    725138       50     79.2      101
+P1_Ileum_1_R1_kneaddata.repeats.removed.2.fastq                         FASTQ   DNA      9156    725138       50     79.2      101
+P1_Ileum_1_R1_kneaddata.trimmed.1.fastq                                 FASTQ   DNA      9545    751447       50     78.7      101
+P1_Ileum_1_R1_kneaddata.trimmed.2.fastq                                 FASTQ   DNA      9545    751447       50     78.7      101
+P1_Ileum_1_R1_kneaddata_unmatched_1.fastq                                       DNA          0          0        0        0        0
+P1_Ileum_1_R1_kneaddata_unmatched_2.fastq                                       DNA          0          0        0        0        0
+P1_Ileum_1_R2.fastq.gz                                                  FASTQ   DNA     27648  2792448      101      101      101
+P1_Ileum_2_R1.fastq.gz                                                  FASTQ   DNA     25138  2538938      101      101      101
+P1_Ileum_2_R1_kneaddata_hg37dec_v0.1_bowtie2_paired_contam_1.fastq      FASTQ   DNA      3476    207638       50     59.7      101
+P1_Ileum_2_R1_kneaddata_hg37dec_v0.1_bowtie2_paired_contam_2.fastq      FASTQ   DNA      3476    207638       50     59.7      101
+P1_Ileum_2_R1_kneaddata_hg37dec_v0.1_bowtie2_unmatched_1_contam.fastq           DNA          0          0        0        0        0
+P1_Ileum_2_R1_kneaddata_hg37dec_v0.1_bowtie2_unmatched_2_contam.fastq           DNA          0          0        0        0        0
+P1_Ileum_2_R1_kneaddata_paired_1.fastq                                  FASTQ   DNA      2537    242481       50     95.6      101
+P1_Ileum_2_R1_kneaddata_paired_2.fastq                                  FASTQ   DNA      2537    242481       50     95.6      101
+P1_Ileum_2_R1_kneaddata.repeats.removed.1.fastq                         FASTQ   DNA      6013    450119       50     74.9      101
+P1_Ileum_2_R1_kneaddata.repeats.removed.2.fastq                         FASTQ   DNA      6013    450119       50     74.9      101
+P1_Ileum_2_R1_kneaddata.trimmed.1.fastq                                 FASTQ   DNA      6234    464703       50     74.5      101
+P1_Ileum_2_R1_kneaddata.trimmed.2.fastq                                 FASTQ   DNA      6234    464703       50     74.5      101
+P1_Ileum_2_R1_kneaddata_unmatched_1.fastq                                       DNA          0          0        0        0        0
+P1_Ileum_2_R1_kneaddata_unmatched_2.fastq                                       DNA          0          0        0        0        0
+P1_Ileum_2_R2.fastq.gz                                                  FASTQ   DNA     25138  2538938      101      101      101
+P1_Ileum_3_R1.fastq.gz                                                  FASTQ   DNA     23238  2347038      101      101      101
+P1_Ileum_3_R1_kneaddata_hg37dec_v0.1_bowtie2_paired_contam_1.fastq      FASTQ   DNA      3599    215450       50     59.9      101
+P1_Ileum_3_R1_kneaddata_hg37dec_v0.1_bowtie2_paired_contam_2.fastq      FASTQ   DNA      3599    215450       50     59.9      101
+P1_Ileum_3_R1_kneaddata_hg37dec_v0.1_bowtie2_unmatched_1_contam.fastq           DNA          0          0        0        0        0
+P1_Ileum_3_R1_kneaddata_hg37dec_v0.1_bowtie2_unmatched_2_contam.fastq           DNA          0          0        0        0        0
+P1_Ileum_3_R1_kneaddata_paired_1.fastq                                  FASTQ   DNA      3591    346799       50     96.6      101
+P1_Ileum_3_R1_kneaddata_paired_2.fastq                                  FASTQ   DNA      3591    346799       50     96.6      101
+P1_Ileum_3_R1_kneaddata.repeats.removed.1.fastq                         FASTQ   DNA      7190    562249       50     78.2      101
+P1_Ileum_3_R1_kneaddata.repeats.removed.2.fastq                         FASTQ   DNA      7190    562249       50     78.2      101
+P1_Ileum_3_R1_kneaddata.trimmed.1.fastq                                 FASTQ   DNA      7493    582347       50     77.7      101
+P1_Ileum_3_R1_kneaddata.trimmed.2.fastq                                 FASTQ   DNA      7493    582347       50     77.7      101
+P1_Ileum_3_R1_kneaddata_unmatched_1.fastq                                       DNA          0          0        0        0        0
+P1_Ileum_3_R1_kneaddata_unmatched_2.fastq                                       DNA          0          0        0        0        0
+P1_Ileum_3_R2.fastq.gz                                                  FASTQ   DNA     23238  2347038      101      101      101
+P1_Rectum_1_R1.fastq.gz                                                 FASTQ   DNA     15823  1598123      101      101      101
+P1_Rectum_1_R1_kneaddata_hg37dec_v0.1_bowtie2_paired_contam_1.fastq     FASTQ   DNA      2888    172019       50     59.6      101
+P1_Rectum_1_R1_kneaddata_hg37dec_v0.1_bowtie2_paired_contam_2.fastq     FASTQ   DNA      2888    172019       50     59.6      101
+P1_Rectum_1_R1_kneaddata_hg37dec_v0.1_bowtie2_unmatched_1_contam.fastq          DNA          0          0        0        0        0
+P1_Rectum_1_R1_kneaddata_hg37dec_v0.1_bowtie2_unmatched_2_contam.fastq          DNA          0          0        0        0        0
+P1_Rectum_1_R1_kneaddata_paired_1.fastq                                 FASTQ   DNA      1522    144786       50     95.1      101
+P1_Rectum_1_R1_kneaddata_paired_2.fastq                                 FASTQ   DNA      1522    144786       50     95.1      101
+P1_Rectum_1_R1_kneaddata.repeats.removed.1.fastq                        FASTQ   DNA      4410    316805       50     71.8      101
+P1_Rectum_1_R1_kneaddata.repeats.removed.2.fastq                        FASTQ   DNA      4410    316805       50     71.8      101
+P1_Rectum_1_R1_kneaddata.trimmed.1.fastq                                FASTQ   DNA      4670    334143       50     71.6      101
+P1_Rectum_1_R1_kneaddata.trimmed.2.fastq                                FASTQ   DNA      4670    334143       50     71.6      101
+P1_Rectum_1_R1_kneaddata_unmatched_1.fastq                                      DNA          0          0        0        0        0
+P1_Rectum_1_R1_kneaddata_unmatched_2.fastq                                      DNA          0          0        0        0        0
+P1_Rectum_1_R2.fastq.gz                                                 FASTQ   DNA     15823  1598123      101      101      101
+P1_Rectum_2_R1.fastq.gz                                                 FASTQ   DNA     15823  1598123      101      101      101
+P1_Rectum_2_R1_kneaddata_hg37dec_v0.1_bowtie2_paired_contam_1.fastq     FASTQ   DNA      2888    172019       50     59.6      101
+P1_Rectum_2_R1_kneaddata_hg37dec_v0.1_bowtie2_paired_contam_2.fastq     FASTQ   DNA      2888    172019       50     59.6      101
+P1_Rectum_2_R1_kneaddata_hg37dec_v0.1_bowtie2_unmatched_1_contam.fastq          DNA          0          0        0        0        0
+P1_Rectum_2_R1_kneaddata_hg37dec_v0.1_bowtie2_unmatched_2_contam.fastq          DNA          0          0        0        0        0
+P1_Rectum_2_R1_kneaddata_paired_1.fastq                                 FASTQ   DNA      1522    144786       50     95.1      101
+P1_Rectum_2_R1_kneaddata_paired_2.fastq                                 FASTQ   DNA      1522    144786       50     95.1      101
+P1_Rectum_2_R1_kneaddata.repeats.removed.1.fastq                        FASTQ   DNA      4410    316805       50     71.8      101
+P1_Rectum_2_R1_kneaddata.repeats.removed.2.fastq                        FASTQ   DNA      4410    316805       50     71.8      101
+P1_Rectum_2_R1_kneaddata.trimmed.1.fastq                                FASTQ   DNA      4670    334143       50     71.6      101
+P1_Rectum_2_R1_kneaddata.trimmed.2.fastq                                FASTQ   DNA      4670    334143       50     71.6      101
+P1_Rectum_2_R1_kneaddata_unmatched_1.fastq                                      DNA          0          0        0        0        0
+P1_Rectum_2_R1_kneaddata_unmatched_2.fastq                                      DNA          0          0        0        0        0
+P1_Rectum_2_R2.fastq.gz                                                 FASTQ   DNA     15823  1598123      101      101      101
+P1_Rectum_3_R1.fastq.gz                                                 FASTQ   DNA     20748  2095548      101      101      101
+P1_Rectum_3_R1_kneaddata_hg37dec_v0.1_bowtie2_paired_contam_1.fastq     FASTQ   DNA      3958    237224       50     59.9      101
+P1_Rectum_3_R1_kneaddata_hg37dec_v0.1_bowtie2_paired_contam_2.fastq     FASTQ   DNA      3958    237224       50     59.9      101
+P1_Rectum_3_R1_kneaddata_hg37dec_v0.1_bowtie2_unmatched_1_contam.fastq          DNA          0          0        0        0        0
+P1_Rectum_3_R1_kneaddata_hg37dec_v0.1_bowtie2_unmatched_2_contam.fastq          DNA          0          0        0        0        0
+P1_Rectum_3_R1_kneaddata_paired_1.fastq                                 FASTQ   DNA      2664    256875       50     96.4      101
+P1_Rectum_3_R1_kneaddata_paired_2.fastq                                 FASTQ   DNA      2664    256875       50     96.4      101
+P1_Rectum_3_R1_kneaddata.repeats.removed.1.fastq                        FASTQ   DNA      6622    494099       50     74.6      101
+P1_Rectum_3_R1_kneaddata.repeats.removed.2.fastq                        FASTQ   DNA      6622    494099       50     74.6      101
+P1_Rectum_3_R1_kneaddata.trimmed.1.fastq                                FASTQ   DNA      6905    513296       50     74.3      101
+P1_Rectum_3_R1_kneaddata.trimmed.2.fastq                                FASTQ   DNA      6905    513296       50     74.3      101
+P1_Rectum_3_R1_kneaddata_unmatched_1.fastq                                      DNA          0          0        0        0        0
+P1_Rectum_3_R1_kneaddata_unmatched_2.fastq                                      DNA          0          0        0        0        0
+P1_Rectum_3_R2.fastq.gz                                                 FASTQ   DNA     20748  2095548      101      101      101
+P2_Ileum_1_R1.fastq.gz                                                  FASTQ   DNA      6618    668418      101      101      101
+P2_Ileum_1_R1_kneaddata_hg37dec_v0.1_bowtie2_paired_contam_1.fastq      FASTQ   DNA        477     28376       50     59.5      101
+P2_Ileum_1_R1_kneaddata_hg37dec_v0.1_bowtie2_paired_contam_2.fastq      FASTQ   DNA        477     28376       50     59.5      101
+P2_Ileum_1_R1_kneaddata_hg37dec_v0.1_bowtie2_unmatched_1_contam.fastq           DNA          0          0        0        0        0
+P2_Ileum_1_R1_kneaddata_hg37dec_v0.1_bowtie2_unmatched_2_contam.fastq           DNA          0          0        0        0        0
+P2_Ileum_1_R1_kneaddata_paired_1.fastq                                  FASTQ   DNA      3469    338422       50     97.6      101
+P2_Ileum_1_R1_kneaddata_paired_2.fastq                                  FASTQ   DNA      3469    338422       50     97.6      101
+P2_Ileum_1_R1_kneaddata.repeats.removed.1.fastq                         FASTQ   DNA      3946    366798       50       93      101
+P2_Ileum_1_R1_kneaddata.repeats.removed.2.fastq                         FASTQ   DNA      3946    366798       50       93      101
+P2_Ileum_1_R1_kneaddata.trimmed.1.fastq                                 FASTQ   DNA      3980    369169       50     92.8      101
+P2_Ileum_1_R1_kneaddata.trimmed.2.fastq                                 FASTQ   DNA      3980    369169       50     92.8      101
+P2_Ileum_1_R1_kneaddata_unmatched_1.fastq                                       DNA          0          0        0        0        0
+P2_Ileum_1_R1_kneaddata_unmatched_2.fastq                                       DNA          0          0        0        0        0
+P2_Ileum_1_R2.fastq.gz                                                  FASTQ   DNA      6618    668418      101      101      101
+P2_Ileum_2_R1.fastq.gz                                                  FASTQ   DNA     24785  2503285      101      101      101
+P2_Ileum_2_R1_kneaddata_hg37dec_v0.1_bowtie2_paired_contam_1.fastq      FASTQ   DNA         10        649       53     64.9       78
+P2_Ileum_2_R1_kneaddata_hg37dec_v0.1_bowtie2_paired_contam_2.fastq      FASTQ   DNA         10        649       53     64.9       78
+P2_Ileum_2_R1_kneaddata_hg37dec_v0.1_bowtie2_unmatched_1_contam.fastq           DNA          0          0        0        0        0
+P2_Ileum_2_R1_kneaddata_hg37dec_v0.1_bowtie2_unmatched_2_contam.fastq           DNA          0          0        0        0        0
+P2_Ileum_2_R1_kneaddata_paired_1.fastq                                  FASTQ   DNA     22785  2207867       50     96.9      101
+P2_Ileum_2_R1_kneaddata_paired_2.fastq                                  FASTQ   DNA     22785  2207867       50     96.9      101
+P2_Ileum_2_R1_kneaddata.repeats.removed.1.fastq                         FASTQ   DNA     22795  2208516       50     96.9      101
+P2_Ileum_2_R1_kneaddata.repeats.removed.2.fastq                         FASTQ   DNA     22795  2208516       50     96.9      101
+P2_Ileum_2_R1_kneaddata.trimmed.1.fastq                                 FASTQ   DNA     22844  2213403       50     96.9      101
+P2_Ileum_2_R1_kneaddata.trimmed.2.fastq                                 FASTQ   DNA     22844  2213403       50     96.9      101
+P2_Ileum_2_R1_kneaddata_unmatched_1.fastq                                       DNA          0          0        0        0        0
+P2_Ileum_2_R1_kneaddata_unmatched_2.fastq                                       DNA          0          0        0        0        0
+P2_Ileum_2_R2.fastq.gz                                                  FASTQ   DNA     24785  2503285      101      101      101
+P2_Ileum_3_R1.fastq.gz                                                  FASTQ   DNA     16016  1617616      101      101      101
+P2_Ileum_3_R1_kneaddata_hg37dec_v0.1_bowtie2_paired_contam_1.fastq      FASTQ   DNA        272     15966       50     58.7      101
+P2_Ileum_3_R1_kneaddata_hg37dec_v0.1_bowtie2_paired_contam_2.fastq      FASTQ   DNA        272     15966       50     58.7      101
+P2_Ileum_3_R1_kneaddata_hg37dec_v0.1_bowtie2_unmatched_1_contam.fastq           DNA          0          0        0        0        0
+P2_Ileum_3_R1_kneaddata_hg37dec_v0.1_bowtie2_unmatched_2_contam.fastq           DNA          0          0        0        0        0
+P2_Ileum_3_R1_kneaddata_paired_1.fastq                                  FASTQ   DNA     13832  1368580       50     98.9      101
+P2_Ileum_3_R1_kneaddata_paired_2.fastq                                  FASTQ   DNA     13832  1368580       50     98.9      101
+P2_Ileum_3_R1_kneaddata.repeats.removed.1.fastq                         FASTQ   DNA     14104  1384546       50     98.2      101
+P2_Ileum_3_R1_kneaddata.repeats.removed.2.fastq                         FASTQ   DNA     14104  1384546       50     98.2      101
+P2_Ileum_3_R1_kneaddata.trimmed.1.fastq                                 FASTQ   DNA     14151  1388729       50     98.1      101
+P2_Ileum_3_R1_kneaddata.trimmed.2.fastq                                 FASTQ   DNA     14151  1388729       50     98.1      101
+P2_Ileum_3_R1_kneaddata_unmatched_1.fastq                                       DNA          0          0        0        0        0
+P2_Ileum_3_R1_kneaddata_unmatched_2.fastq                                       DNA          0          0        0        0        0
+P2_Ileum_3_R2.fastq.gz                                                  FASTQ   DNA     16016  1617616      101      101      101
+P2_Rectum_1_R1.fastq.gz                                                 FASTQ   DNA     16583  1674883      101      101      101
+P2_Rectum_1_R1_kneaddata_hg37dec_v0.1_bowtie2_paired_contam_1.fastq     FASTQ   DNA        349     21396       50     61.3      101
+P2_Rectum_1_R1_kneaddata_hg37dec_v0.1_bowtie2_paired_contam_2.fastq     FASTQ   DNA        349     21396       50     61.3      101
+P2_Rectum_1_R1_kneaddata_hg37dec_v0.1_bowtie2_unmatched_1_contam.fastq          DNA          0          0        0        0        0
+P2_Rectum_1_R1_kneaddata_hg37dec_v0.1_bowtie2_unmatched_2_contam.fastq          DNA          0          0        0        0        0
+P2_Rectum_1_R1_kneaddata_paired_1.fastq                                 FASTQ   DNA     13656  1353779       50     99.1      101
+P2_Rectum_1_R1_kneaddata_paired_2.fastq                                 FASTQ   DNA     13656  1353779       50     99.1      101
+P2_Rectum_1_R1_kneaddata.repeats.removed.1.fastq                        FASTQ   DNA     14005  1375175       50     98.2      101
+P2_Rectum_1_R1_kneaddata.repeats.removed.2.fastq                        FASTQ   DNA     14005  1375175       50     98.2      101
+P2_Rectum_1_R1_kneaddata.trimmed.1.fastq                                FASTQ   DNA     14060  1379880       50     98.1      101
+P2_Rectum_1_R1_kneaddata.trimmed.2.fastq                                FASTQ   DNA     14060  1379880       50     98.1      101
+P2_Rectum_1_R1_kneaddata_unmatched_1.fastq                                      DNA          0          0        0        0        0
+P2_Rectum_1_R1_kneaddata_unmatched_2.fastq                                      DNA          0          0        0        0        0
+P2_Rectum_1_R2.fastq.gz                                                 FASTQ   DNA     16583  1674883      101      101      101
+P2_Rectum_2_R1.fastq.gz                                                 FASTQ   DNA      9044    913444      101      101      101
+P2_Rectum_2_R1_kneaddata_hg37dec_v0.1_bowtie2_paired_contam_1.fastq     FASTQ   DNA        132      7776       50     58.9      101
+P2_Rectum_2_R1_kneaddata_hg37dec_v0.1_bowtie2_paired_contam_2.fastq     FASTQ   DNA        132      7776       50     58.9      101
+P2_Rectum_2_R1_kneaddata_hg37dec_v0.1_bowtie2_unmatched_1_contam.fastq          DNA          0          0        0        0        0
+P2_Rectum_2_R1_kneaddata_hg37dec_v0.1_bowtie2_unmatched_2_contam.fastq          DNA          0          0        0        0        0
+P2_Rectum_2_R1_kneaddata_paired_1.fastq                                 FASTQ   DNA      7679    760812       50     99.1      101
+P2_Rectum_2_R1_kneaddata_paired_2.fastq                                 FASTQ   DNA      7679    760812       50     99.1      101
+P2_Rectum_2_R1_kneaddata.repeats.removed.1.fastq                        FASTQ   DNA      7811    768588       50     98.4      101
+P2_Rectum_2_R1_kneaddata.repeats.removed.2.fastq                        FASTQ   DNA      7811    768588       50     98.4      101
+P2_Rectum_2_R1_kneaddata.trimmed.1.fastq                                FASTQ   DNA      7829    770347       50     98.4      101
+P2_Rectum_2_R1_kneaddata.trimmed.2.fastq                                FASTQ   DNA      7829    770347       50     98.4      101
+P2_Rectum_2_R1_kneaddata_unmatched_1.fastq                                      DNA          0          0        0        0        0
+P2_Rectum_2_R1_kneaddata_unmatched_2.fastq                                      DNA          0          0        0        0        0
+P2_Rectum_2_R2.fastq.gz                                                 FASTQ   DNA      9044    913444      101      101      101
+P2_Rectum_3_R1.fastq.gz                                                 FASTQ   DNA     18671  1885771      101      101      101
+P2_Rectum_3_R1_kneaddata_hg37dec_v0.1_bowtie2_paired_contam_1.fastq     FASTQ   DNA        112      6911       50     61.7      101
+P2_Rectum_3_R1_kneaddata_hg37dec_v0.1_bowtie2_paired_contam_2.fastq     FASTQ   DNA        112      6911       50     61.7      101
+P2_Rectum_3_R1_kneaddata_hg37dec_v0.1_bowtie2_unmatched_1_contam.fastq          DNA          0          0        0        0        0
+P2_Rectum_3_R1_kneaddata_hg37dec_v0.1_bowtie2_unmatched_2_contam.fastq          DNA          0          0        0        0        0
+P2_Rectum_3_R1_kneaddata_paired_1.fastq                                 FASTQ   DNA     17266  1716682       50     99.4      101
+P2_Rectum_3_R1_kneaddata_paired_2.fastq                                 FASTQ   DNA     17266  1716682       50     99.4      101
+P2_Rectum_3_R1_kneaddata.repeats.removed.1.fastq                        FASTQ   DNA     17378  1723593       50     99.2      101
+P2_Rectum_3_R1_kneaddata.repeats.removed.2.fastq                        FASTQ   DNA     17378  1723593       50     99.2      101
+P2_Rectum_3_R1_kneaddata.trimmed.1.fastq                                FASTQ   DNA     17420  1727646       50     99.2      101
+P2_Rectum_3_R1_kneaddata.trimmed.2.fastq                                FASTQ   DNA     17420  1727646       50     99.2      101
+P2_Rectum_3_R1_kneaddata_unmatched_1.fastq                                      DNA          0          0        0        0        0
+P2_Rectum_3_R1_kneaddata_unmatched_2.fastq                                      DNA          0          0        0        0        0
+P2_Rectum_3_R2.fastq.gz                                                 FASTQ   DNA     18671  1885771      101      101      101
+P3_Ileum_1_R1.fastq.gz                                                  FASTQ   DNA     20610  2081610      101      101      101
+P3_Ileum_1_R1_kneaddata_hg37dec_v0.1_bowtie2_paired_contam_1.fastq      FASTQ   DNA      2717    162210       50     59.7      101
+P3_Ileum_1_R1_kneaddata_hg37dec_v0.1_bowtie2_paired_contam_2.fastq      FASTQ   DNA      2717    162210       50     59.7      101
+P3_Ileum_1_R1_kneaddata_hg37dec_v0.1_bowtie2_unmatched_1_contam.fastq           DNA          0          0        0        0        0
+P3_Ileum_1_R1_kneaddata_hg37dec_v0.1_bowtie2_unmatched_2_contam.fastq           DNA          0          0        0        0        0
+P3_Ileum_1_R1_kneaddata_paired_1.fastq                                  FASTQ   DNA      4817    467351       50       97      101
+P3_Ileum_1_R1_kneaddata_paired_2.fastq                                  FASTQ   DNA      4817    467351       50       97      101
+P3_Ileum_1_R1_kneaddata.repeats.removed.1.fastq                         FASTQ   DNA      7534    629561       50     83.6      101
+P3_Ileum_1_R1_kneaddata.repeats.removed.2.fastq                         FASTQ   DNA      7534    629561       50     83.6      101
+P3_Ileum_1_R1_kneaddata.trimmed.1.fastq                                 FASTQ   DNA      7772    645385       50       83      101
+P3_Ileum_1_R1_kneaddata.trimmed.2.fastq                                 FASTQ   DNA      7772    645385       50       83      101
+P3_Ileum_1_R1_kneaddata_unmatched_1.fastq                                       DNA          0          0        0        0        0
+P3_Ileum_1_R1_kneaddata_unmatched_2.fastq                                       DNA          0          0        0        0        0
+P3_Ileum_1_R2.fastq.gz                                                  FASTQ   DNA     20610  2081610      101      101      101
+P3_Ileum_2_R1.fastq.gz                                                  FASTQ   DNA     14409  1455309      101      101      101
+P3_Ileum_2_R1_kneaddata_hg37dec_v0.1_bowtie2_paired_contam_1.fastq      FASTQ   DNA      1765    105426       50     59.7      101
+P3_Ileum_2_R1_kneaddata_hg37dec_v0.1_bowtie2_paired_contam_2.fastq      FASTQ   DNA      1765    105426       50     59.7      101
+P3_Ileum_2_R1_kneaddata_hg37dec_v0.1_bowtie2_unmatched_1_contam.fastq           DNA          0          0        0        0        0
+P3_Ileum_2_R1_kneaddata_hg37dec_v0.1_bowtie2_unmatched_2_contam.fastq           DNA          0          0        0        0        0
+P3_Ileum_2_R1_kneaddata_paired_1.fastq                                  FASTQ   DNA      4049    397369       50     98.1      101
+P3_Ileum_2_R1_kneaddata_paired_2.fastq                                  FASTQ   DNA      4049    397369       50     98.1      101
+P3_Ileum_2_R1_kneaddata.repeats.removed.1.fastq                         FASTQ   DNA      5814    502795       50     86.5      101
+P3_Ileum_2_R1_kneaddata.repeats.removed.2.fastq                         FASTQ   DNA      5814    502795       50     86.5      101
+P3_Ileum_2_R1_kneaddata.trimmed.1.fastq                                 FASTQ   DNA      5969    513143       50       86      101
+P3_Ileum_2_R1_kneaddata.trimmed.2.fastq                                 FASTQ   DNA      5969    513143       50       86      101
+P3_Ileum_2_R1_kneaddata_unmatched_1.fastq                                       DNA          0          0        0        0        0
+P3_Ileum_2_R1_kneaddata_unmatched_2.fastq                                       DNA          0          0        0        0        0
+P3_Ileum_2_R2.fastq.gz                                                  FASTQ   DNA     14409  1455309      101      101      101
+P3_Ileum_3_R1.fastq.gz                                                  FASTQ   DNA     18078  1825878      101      101      101
+P3_Ileum_3_R1_kneaddata_hg37dec_v0.1_bowtie2_paired_contam_1.fastq      FASTQ   DNA      2442    146311       50     59.9      101
+P3_Ileum_3_R1_kneaddata_hg37dec_v0.1_bowtie2_paired_contam_2.fastq      FASTQ   DNA      2442    146311       50     59.9      101
+P3_Ileum_3_R1_kneaddata_hg37dec_v0.1_bowtie2_unmatched_1_contam.fastq           DNA          0          0        0        0        0
+P3_Ileum_3_R1_kneaddata_hg37dec_v0.1_bowtie2_unmatched_2_contam.fastq           DNA          0          0        0        0        0
+P3_Ileum_3_R1_kneaddata_paired_1.fastq                                  FASTQ   DNA      3869    373340       50     96.5      101
+P3_Ileum_3_R1_kneaddata_paired_2.fastq                                  FASTQ   DNA      3869    373340       50     96.5      101
+P3_Ileum_3_R1_kneaddata.repeats.removed.1.fastq                         FASTQ   DNA      6311    519651       50     82.3      101
+P3_Ileum_3_R1_kneaddata.repeats.removed.2.fastq                         FASTQ   DNA      6311    519651       50     82.3      101
+P3_Ileum_3_R1_kneaddata.trimmed.1.fastq                                 FASTQ   DNA      6545    535453       50     81.8      101
+P3_Ileum_3_R1_kneaddata.trimmed.2.fastq                                 FASTQ   DNA      6545    535453       50     81.8      101
+P3_Ileum_3_R1_kneaddata_unmatched_1.fastq                                       DNA          0          0        0        0        0
+P3_Ileum_3_R1_kneaddata_unmatched_2.fastq                                       DNA          0          0        0        0        0
+P3_Ileum_3_R2.fastq.gz                                                  FASTQ   DNA     18078  1825878      101      101      101
+P3_Rectum_1_R1.fastq.gz                                                 FASTQ   DNA      8479    856379      101      101      101
+P3_Rectum_1_R1_kneaddata_hg37dec_v0.1_bowtie2_paired_contam_1.fastq     FASTQ   DNA      1065     64408       50     60.5      101
+P3_Rectum_1_R1_kneaddata_hg37dec_v0.1_bowtie2_paired_contam_2.fastq     FASTQ   DNA      1065     64408       50     60.5      101
+P3_Rectum_1_R1_kneaddata_hg37dec_v0.1_bowtie2_unmatched_1_contam.fastq          DNA          0          0        0        0        0
+P3_Rectum_1_R1_kneaddata_hg37dec_v0.1_bowtie2_unmatched_2_contam.fastq          DNA          0          0        0        0        0
+P3_Rectum_1_R1_kneaddata_paired_1.fastq                                 FASTQ   DNA      1527    147480       50     96.6      101
+P3_Rectum_1_R1_kneaddata_paired_2.fastq                                 FASTQ   DNA      1527    147480       50     96.6      101
+P3_Rectum_1_R1_kneaddata.repeats.removed.1.fastq                        FASTQ   DNA      2592    211888       50     81.7      101
+P3_Rectum_1_R1_kneaddata.repeats.removed.2.fastq                        FASTQ   DNA      2592    211888       50     81.7      101
+P3_Rectum_1_R1_kneaddata.trimmed.1.fastq                                FASTQ   DNA      2703    219547       50     81.2      101
+P3_Rectum_1_R1_kneaddata.trimmed.2.fastq                                FASTQ   DNA      2703    219547       50     81.2      101
+P3_Rectum_1_R1_kneaddata_unmatched_1.fastq                                      DNA          0          0        0        0        0
+P3_Rectum_1_R1_kneaddata_unmatched_2.fastq                                      DNA          0          0        0        0        0
+P3_Rectum_1_R2.fastq.gz                                                 FASTQ   DNA      8479    856379      101      101      101
+P3_Rectum_2_R1.fastq.gz                                                 FASTQ   DNA      9241    933341      101      101      101
+P3_Rectum_2_R1_kneaddata_hg37dec_v0.1_bowtie2_paired_contam_1.fastq     FASTQ   DNA      1772    106436       50     60.1      101
+P3_Rectum_2_R1_kneaddata_hg37dec_v0.1_bowtie2_paired_contam_2.fastq     FASTQ   DNA      1772    106436       50     60.1      101
+P3_Rectum_2_R1_kneaddata_hg37dec_v0.1_bowtie2_unmatched_1_contam.fastq          DNA          0          0        0        0        0
+P3_Rectum_2_R1_kneaddata_hg37dec_v0.1_bowtie2_unmatched_2_contam.fastq          DNA          0          0        0        0        0
+P3_Rectum_2_R1_kneaddata_paired_1.fastq                                 FASTQ   DNA        487     44053       50     90.5      101
+P3_Rectum_2_R1_kneaddata_paired_2.fastq                                 FASTQ   DNA        487     44053       50     90.5      101
+P3_Rectum_2_R1_kneaddata.repeats.removed.1.fastq                        FASTQ   DNA      2259    150489       50     66.6      101
+P3_Rectum_2_R1_kneaddata.repeats.removed.2.fastq                        FASTQ   DNA      2259    150489       50     66.6      101
+P3_Rectum_2_R1_kneaddata.trimmed.1.fastq                                FASTQ   DNA      2416    160941       50     66.6      101
+P3_Rectum_2_R1_kneaddata.trimmed.2.fastq                                FASTQ   DNA      2416    160941       50     66.6      101
+P3_Rectum_2_R1_kneaddata_unmatched_1.fastq                                      DNA          0          0        0        0        0
+P3_Rectum_2_R1_kneaddata_unmatched_2.fastq                                      DNA          0          0        0        0        0
+P3_Rectum_2_R2.fastq.gz                                                 FASTQ   DNA      9241    933341      101      101      101
+P3_Rectum_3_R1.fastq.gz                                                 FASTQ   DNA      7945    802445      101      101      101
+P3_Rectum_3_R1_kneaddata_hg37dec_v0.1_bowtie2_paired_contam_1.fastq     FASTQ   DNA      1154     68707       50     59.5      101
+P3_Rectum_3_R1_kneaddata_hg37dec_v0.1_bowtie2_paired_contam_2.fastq     FASTQ   DNA      1154     68707       50     59.5      101
+P3_Rectum_3_R1_kneaddata_hg37dec_v0.1_bowtie2_unmatched_1_contam.fastq          DNA          0          0        0        0        0
+P3_Rectum_3_R1_kneaddata_hg37dec_v0.1_bowtie2_unmatched_2_contam.fastq          DNA          0          0        0        0        0
+P3_Rectum_3_R1_kneaddata_paired_1.fastq                                 FASTQ   DNA      1481    142810       50     96.4      101
+P3_Rectum_3_R1_kneaddata_paired_2.fastq                                 FASTQ   DNA      1481    142810       50     96.4      101
+P3_Rectum_3_R1_kneaddata.repeats.removed.1.fastq                        FASTQ   DNA      2635    211517       50     80.3      101
+P3_Rectum_3_R1_kneaddata.repeats.removed.2.fastq                        FASTQ   DNA      2635    211517       50     80.3      101
+P3_Rectum_3_R1_kneaddata.trimmed.1.fastq                                FASTQ   DNA      2750    219502       50     79.8      101
+P3_Rectum_3_R1_kneaddata.trimmed.2.fastq                                FASTQ   DNA      2750    219502       50     79.8      101
+P3_Rectum_3_R1_kneaddata_unmatched_1.fastq                                      DNA          0          0        0        0        0
+P3_Rectum_3_R1_kneaddata_unmatched_2.fastq                                      DNA          0          0        0        0        0
+P3_Rectum_3_R2.fastq.gz                                                 FASTQ   DNA      7945    802445      101      101      101

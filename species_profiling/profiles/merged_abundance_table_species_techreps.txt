@@ -1,0 +1,6 @@
+clade_name	P1_Ileum_1	P1_Ileum_2	P1_Ileum_3	P1_Rectum_1	P1_Rectum_2	P1_Rectum_3	P2_Ileum_1	P2_Ileum_2	P2_Ileum_3	P2_Rectum_1	P2_Rectum_2	P2_Rectum_3	P3_Ileum_1	P3_Ileum_2	P3_Ileum_3	P3_Rectum_1	P3_Rectum_2	P3_Rectum_3
+s__Phocaeicola_vulgatus	0.0	0.0	0.0	0.0	0.0	0.0	0.0	43.44407	77.90073165740992	71.53595	98.25400205620338	39.8885526849371	0.0	0.0	0.0	0.0	0.0	0.0
+s__Alistipes_putredinis	0.0	0.0	0.0	0.0	0.0	0.0	0.0	27.0937	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+s__Dialister_invisus	0.0	0.0	0.0	0.0	0.0	0.0	0.0	18.28729	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+s__Bacteroides_uniformis	0.0	0.0	0.0	0.0	0.0	0.0	0.0	11.17495	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+s__Akkermansia_muciniphila	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	28.46405	0.0	41.61639231497933	0.0	0.0	0.0	0.0	0.0	0.0

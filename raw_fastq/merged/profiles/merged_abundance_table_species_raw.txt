@@ -1,0 +1,12 @@
+clade_name	P1_Ileum	P1_Rectum	P2_Ileum	P2_Rectum	P3_Ileum	P3_Rectum
+s__Sphingomonas_echinoides	5.971330686427811	0.0	0.0	0.0	0.0	0.0
+s__Phocaeicola_vulgatus	0.0	0.0	35.06272138080167	31.97447652780538	20.137622408093595	0.0
+s__Alistipes_putredinis	0.0	0.0	14.680452733881436	6.701565951284888	0.0	0.0
+s__Dialister_invisus	0.0	0.0	9.18067692143559	0.0	0.0	0.0
+s__Akkermansia_muciniphila	0.0	0.0	5.3730438362474295	21.81307025246633	0.0	0.0
+s__Bacteroides_uniformis	0.0	0.0	4.25401355156757	0.5729194923285513	0.0	0.0
+s__Mediterraneibacter_faecis	0.0	0.0	3.742630283079205	0.0	0.0	0.0
+s__Oscillibacter_sp_ER4	0.0	0.0	1.1061853316885917	0.0	0.0	0.0
+s__Ruminococcus_bromii	0.0	0.0	0.0	8.385175344296117	0.0	0.0
+s__Alistipes_onderdonkii	0.0	0.0	0.0	1.062489471786157	0.0	0.0
+s__Phocaeicola_massiliensis	0.0	0.0	0.0	0.0	2.584190397457044	0.0

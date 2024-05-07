@@ -1,0 +1,11 @@
+mkdir: cannot create directory ‘profiles’: File exists
+WARNING: MetaPhlAn did not detect any microbial taxa in the sample.
+WARNING: MetaPhlAn did not detect any microbial taxa in the sample.
+WARNING: The metagenome profile contains clades that represent multiple species merged into a single representant.
+An additional column listing the merged species is added to the MetaPhlAn output.
+WARNING: The metagenome profile contains clades that represent multiple species merged into a single representant.
+An additional column listing the merged species is added to the MetaPhlAn output.
+WARNING: The metagenome profile contains clades that represent multiple species merged into a single representant.
+An additional column listing the merged species is added to the MetaPhlAn output.
+WARNING: The number of reads in the sample (6340) is below the recommended minimum of 10,000 reads.
+WARNING: MetaPhlAn did not detect any microbial taxa in the sample.

@@ -1,0 +1,6 @@
+#mpa_vJun23_CHOCOPhlAnSGB_202307
+#/dss/dsshome1/lxc07/di39dux/mambaforge/envs/microbes/bin/metaphlan P1_Ileum_3_R1.fastq,P1_Ileum_3_R2.fastq --bowtie2out profiles/P1_Ileum_3 --unclassified_estimation --bowtie2db /dss/dsslegfs01/pr53da/pr53da-dss-0021/projects/2021__Cuckoo_Resequencing/tmp/meta_db --input_type fastq --nproc 5
+#6632 reads processed
+#SampleID	Metaphlan_Analysis
+#clade_name	NCBI_tax_id	relative_abundance	additional_species
+UNCLASSIFIED	-1	100.0	
