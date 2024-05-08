@@ -1,0 +1,8 @@
+Alistipes_putredinis	clbN-F	100.000	15	0.040
+Bacteroides_uniformis	clbF-R	90.909	22	0.023
+Dialister_invisus	clbI-R	100.000	17	0.003
+Oscillibacter_sp_ER4	clbB-F	100.000	16	0.014
+Phocaeicola_massiliensis	clbF-R	100.000	16	0.022
+Phocaeicola_massiliensis	clbO-F	95.000	20	0.006
+Ruminococcus_bromii	clbJ-R	100.000	15	0.034
+Ruminococcus_bromii	clbN-F	100.000	15	0.034
