@@ -79,6 +79,19 @@ Wickham, H., Averick, M., Bryan, J., Chang, W., McGowan, L., François, R., Grol
 
 Wu-Woods, N. J., Barlow, J. T., Trigodet, F., Shaw, D. G., Romano, A. E., Jabri, B., Eren, A. M., & Ismagilov, R. F. (2023). Microbial-enrichment method enables high-throughput metagenomic characterization from host-rich samples. Nature Methods, 20(11), 1672–1682. https://doi.org/10.1038/s41592-023-02025-4
 
+![Fig1](figures/Fig1.png)
+
+**Fig. 1.** Quality control from 9 paired-end metagenomic shotgun libraries, spanning 3 individuals, 2 biopsies, and 3 replicates. (a) MultiQC results indicating the number of unique and duplicate reads for each raw library, indicating problematic variability across individuals. (b) MultiQC results for reads post processing with kneaddata, indicating exacerbated read differences among libraries. (c) MultiQC heatmaps showing library quality metrics, indicating problematic sequence composition, GC content, and artificial sequences pre-QC. (d). Post-QC analysis indicates that overrepresented sequences and adapters are solved, but base composition and GC content are still problematic, putatively from library prep. 
+
+![Fig2](figures/Fig2.png)
+
+**Fig. 2.** Abundance estimates of each species within each raw library using MetaPhLaN profiles across raw data and filtered data for technical and biological replicates. (a) Abundance estimates using the raw unfiltered reads, but merging at the biological replicate level. (b) Estimates at the technical replicate level. (c) Estimates at the biological replicate level, with species identified in all 3 analyses indicated with an asterisk. The library P3_Ileum is indicated with a red asterisk to denote these species were not recovered at the technical replicate level. 
+
+![Fig3](figures/Fig3.png)
+
+.** Candidate species capable of producing colibactin. Species in bold represent species identified from both BLAST and antismash approaches and which appear in the biological replicate profile of filtered reads from MetaPhlAn.
+
+
 ## Directory Structure
 
 ### `/raw_fastq`
