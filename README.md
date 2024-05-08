@@ -91,6 +91,11 @@ Wu-Woods, N. J., Barlow, J. T., Trigodet, F., Shaw, D. G., Romano, A. E., Jabri,
 
 **Fig. 3.** Candidate species capable of producing colibactin. Species in bold represent species identified from both BLAST and antismash approaches and which appear in the biological replicate profile of filtered reads from MetaPhlAn.
 
+## Time Allocation
+
+![Time](figures/Time_Spent.PNG)
+
+Time devoted to specific tasks.
 
 ## Directory Structure
 
